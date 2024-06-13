@@ -1,4 +1,4 @@
-<h1> Anon eCommerce Template </h1>
+<h1> Evara eCommerce Template </h1>
 
 <p> Evara , clone e-commerce website. It's fully responsive across all devices.</p>
 
